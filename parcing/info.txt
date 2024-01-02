@@ -1,0 +1,18 @@
+Yordamchi guruh uchun test topshirig'i (Python/Go)
+Jildda ikkita XML mavjud - bu bizning hamkorlarimizdan biriga qilingan qidiruv so'rovlariga javoblar. Javoblar Aviasalesga chiptani ko'rsatish uchun barcha kerakli ma'lumotlarni o'z ichiga olgan parvoz variantlarini (yorliqli parvozlar) o'z ichiga oladi.
+
+Ushbu ma'lumotlarga asoslanib, siz quyidagi so'rovlarga javob beradigan so'nggi nuqtalarga ega veb-xizmatni yaratishingiz kerak:
+
+
+DXB dan BKK ga qanday parvoz variantlari mavjud?
+Eng qimmat, arzon, tez, uzoq va optimal variantlar ?
+
+Ikki so'rov natijalari o'rtasida qanday farqlar bor (marshrutlar/ shartlardagi o'zgarishlar)?
+
+
+Amalga oshirish tili: Go Response formati: json Iloji bo'lsa, standart kutubxonadan foydalaning.
+
+Amalga oshirish tili: python3 Javob formati: json Amaldagi kutubxonalar va asboblar sizning tanlovingiz.
+
+Biz bu haqda to'liq bo'lmagan ma'lumotlar bilan vazifani bajarish qobiliyatini, mustaqil ravishda qaror qabul qilish qobiliyatini va kodning sifatini baholaymiz.
+
